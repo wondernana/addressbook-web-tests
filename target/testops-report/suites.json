@@ -1,0 +1,10 @@
+{
+  "suites" : [ {
+    "uuid" : "fd1b9ffe-0700-4dac-b3e2-146c68195ea3",
+    "parentUuid" : "6aa6b2ad-106c-4b72-9458-743eb268789f",
+    "name" : "Default Suite",
+    "start" : 1616293149806,
+    "stop" : 1616293160493,
+    "duration" : 10687
+  } ]
+}
